@@ -1,0 +1,7 @@
+Part_Category	Name	Retail_Price	Cost	Qty_In_Stock	Qty_Sold	Detail_Description	XXX	YYY	ZZZ
+Computer	MacbookPro	 1999	1299	 10	 3	The best computer in the world	1001024	200000	2.6Ghz
+Tablet	iPad3	 599	425	 25	 20	The best tablet in the world	8x10	1024	No
+Printer	HP500	 199	49	 4	 21	The worst printer in the world	8x10	0	Yes
+Tablet	asus	 698	400	 40	 7	Not worth the monet	8	3000	yes
+Printer	thatPrinter	 400	34	 245	 325	One fake printer	no	400	No
+
